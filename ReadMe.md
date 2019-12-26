@@ -10,7 +10,7 @@ CUDA 9.0
 
 **Dataset**
 
-the self-collected dataset can be downloaded from [here](https://tams.informatik.uni-hamburg.de/research/datasets/index.php).
+the self-collected dataset and trained models can be downloaded from [here](https://tams.informatik.uni-hamburg.de/research/datasets/index.php).
 
 **Feature Extraction**
 
