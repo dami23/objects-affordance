@@ -26,7 +26,7 @@ patch_texture_encoding.py
 
 train_val.py
 
-Test
+**Test**
 
 affor_multi_recognition.py
 
