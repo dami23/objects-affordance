@@ -2,7 +2,9 @@ This is project includes the codes for attention-based multi-visual features fus
 
 Requirements
 Python 2.7
+
 PyTorch 0.4.1  (may not work with 1.0 or higher)
+
 CUDA 9.0
 
 Dataset
