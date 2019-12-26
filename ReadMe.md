@@ -18,7 +18,7 @@ the self-collected dataset can be downloaded from [here](https://tams.informatik
 
 patch_vgg19.py
 
-2. deep texture feature encode by the texture encoding network
+2. deep texture feature encode by the [texture encoding network](https://hangzhang.org/PyTorch-Encoding/experiments/texture.html). Please install required sources according to the website.
 
 patch_texture_encoding.py
 
